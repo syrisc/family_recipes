@@ -3,6 +3,6 @@
 Set of recipes as given by my grandma
 
  - Pizzas (TODO)
- - Sauces (TODO)
+ - Suases (TODO)
  - Spreads (TODO)
  
